@@ -1,8 +1,11 @@
 # Password_manager
 Scripts that manage and keep password securely.
 
-Description
+Description:
+
 This code needs a password to continue or see the rest of the program which where all the password manage.
+
+
 
 
 Steps and requirements needed before running the program:
