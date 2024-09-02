@@ -1,0 +1,11 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore other common files and directories
+.DS_Store
+*.log
+.env
+
+# Ignore generated file "Enrolled_students.txt" while testing the program
+hashpw.txt
