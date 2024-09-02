@@ -6,7 +6,9 @@ This code needs a password to continue or see the rest of the program which wher
 
 
 Steps and requirements needed before running the program:
+
 FOR LINUX
+
 	1. It is recommended to activate venv. Here is the step for activating virtual environment.
 		Note: Ensure that you are inside of "Password_manager folder".
 
