@@ -3,7 +3,7 @@ Scripts that manage and keep password securely.
 
 Description:
 
-This code needs a password to continue or see the rest of the program which where all the password manage.
+This code needs a password to continue or see the rest of the program which where all the passwords manage.
 
 
 
